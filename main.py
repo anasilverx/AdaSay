@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.cow("It's cow time!")
+cowsay.cow("It's cowabunga time!")
